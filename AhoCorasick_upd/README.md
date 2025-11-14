@@ -1,7 +1,6 @@
 # Aho-Corasick Automaton Project
 ## What I did
-I implemented the Aho-Corasick automaton from scratch in Java. The implementation contains full construction of the trie, failure links, and an efficient search engine capable of matching multiple patterns simultaneously in linear time. The project includes test executions on three different text sizes to observe behavior under varying input lengths.
-
+I implemented the Aho-Corasick automaton from scratch in Java. The implementation contains full construction of the trie, failure links, and an efficient search engine capable of matching multiple patterns simultaneously in linear time. The project includes test executions on three different text sizes to observe behavior under varying input lengths. 
 ## Project structure
 ```
 Aho_Corasick_upd/
