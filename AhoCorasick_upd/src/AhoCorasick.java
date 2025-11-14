@@ -44,7 +44,7 @@ public class AhoCorasick {
             }
         }
     }
-
+    
     public Map<String, List<Integer>> search(String text) {
         Map<String, List<Integer>> res = new HashMap<>();
         Node state = root;
